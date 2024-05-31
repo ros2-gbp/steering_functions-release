@@ -1,3 +1,26 @@
+## steering_functions (iron) - 0.3.0-1
+
+The packages in the `steering_functions` repository were released into the `iron` distro by running `/usr/bin/bloom-release steering_functions --ros-distro iron` on `Fri, 31 May 2024 06:12:27 -0000`
+
+The `steering_functions` package was released.
+
+Version of package(s) in repository `steering_functions`:
+
+- upstream repository: https://github.com/hbanzhaf/steering_functions.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## steering_functions (noetic) - 0.1.1-1
 
 The packages in the `steering_functions` repository were released into the `noetic` distro by running `/usr/bin/bloom-release steering_functions --rosdistro noetic` on `Mon, 21 Mar 2022 08:19:43 -0000`
