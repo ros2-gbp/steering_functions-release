@@ -1,0 +1,12 @@
+Source: ros-iron-steering-functions
+Section: misc
+Priority: optional
+Maintainer: Holger Banzhaf <holger.banzhaf@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), cmake, libeigen3-dev, ros-iron-ros-environment, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-steering-functions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-iron-ros-workspace
+Description: The steering_functions package
