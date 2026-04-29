@@ -1,0 +1,12 @@
+Source: ros-lyrical-steering-functions
+Section: misc
+Priority: optional
+Maintainer: Holger Banzhaf <holger.banzhaf@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), cmake, libeigen3-dev, ros-lyrical-ros-environment, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/steering_functions/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-steering-functions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-lyrical-ros-workspace
+Description: The steering_functions package
