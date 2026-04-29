@@ -158,4 +158,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/hbanzhaf/steering_functions.git
-    version: :{auto}
+    version: 0.3.0
+    version_saved: :{auto}
